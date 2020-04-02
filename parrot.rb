@@ -4,4 +4,5 @@ def parrot(string = "Squak!")
 end
 
 parrot("Squak!")
+puts parrot("Squak!")
 puts "Checkpoint 2"
