@@ -4,6 +4,6 @@ def parrot(string = "Squak!")
   return string
 end
 
-parrot("Squak!")
-puts parrot("Squak!")
+parrot("Pretty Bird!)
+puts parrot("Pretty Bird!")
 puts "Checkpoint 2"
