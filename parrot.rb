@@ -5,5 +5,4 @@ def parrot(string = "Squak!")
 end
 
 parrot("Pretty Bird!)
-puts parrot("Pretty Bird!")
 puts "Checkpoint 2"
