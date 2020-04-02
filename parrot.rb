@@ -6,5 +6,6 @@ end
 if parrot(string)
   puts "#{string}"
   return string
-  
+end 
+
 end
